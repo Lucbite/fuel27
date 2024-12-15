@@ -1,3 +1,4 @@
+print "hello world"
 ---
 source: bin/e2e-test-client/src/config.rs
 expression: serialized
