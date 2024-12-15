@@ -19,7 +19,7 @@ Before pushing any changes or creating pull request please run `source ci_checks
 
 There are several system requirements including clang.
 
-#### MacOS
+#### MacOS
 
 ```bash
 brew update
